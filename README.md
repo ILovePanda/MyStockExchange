@@ -21,11 +21,13 @@ The MyStockExchange project is open-sourced.
 
 ## Development 
 
-#### Configure your host file
+#### Configure your host file (Here on MacOS Sierra)
+file : /etc/hosts
     
     127.0.0.1   mystockexchange.local   www.mystockexchange.local
 
-#### Configure your vhost : 
+#### Configure your vhost (Here on MacOS Sierra) : 
+file : /etc/apache2/extra/httpd-vhosts.conf
 
     <VirtualHost *:80>
         ServerName localhost
