@@ -35,5 +35,5 @@ The MyStockExchange project is open-sourced.
     <VirtualHost *:80>
         ServerName mystockexchange.local
         ServerAlias www.mystockexchange.local
-        DocumentRoot "/Users/antoinemaslinecamerini/Sites/mystockexchange/public"
+        DocumentRoot "/Users/**YourName**/Sites/mystockexchange/public"
     </VirtualHost>
