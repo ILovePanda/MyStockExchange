@@ -2,6 +2,7 @@
 
 return [
 
-    'administrators_area' => 'Espace administrateur',
+    'administrators_area'   => 'Espace administrateur',
+    'add'                   => 'Ajouter',
 
 ];
